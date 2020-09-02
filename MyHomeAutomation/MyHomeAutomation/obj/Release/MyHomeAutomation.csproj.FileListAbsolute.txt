@@ -1,0 +1,9 @@
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\bin\Release\MyHomeAutomation.exe.config
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\bin\Release\MyHomeAutomation.exe
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\bin\Release\MyHomeAutomation.pdb
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\bin\Release\Bunifu_UI_v1.52.dll
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\obj\Release\MyHomeAutomation.Form1.resources
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\obj\Release\MyHomeAutomation.Properties.Resources.resources
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\obj\Release\MyHomeAutomation.csproj.GenerateResource.Cache
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\obj\Release\MyHomeAutomation.exe
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\obj\Release\MyHomeAutomation.pdb

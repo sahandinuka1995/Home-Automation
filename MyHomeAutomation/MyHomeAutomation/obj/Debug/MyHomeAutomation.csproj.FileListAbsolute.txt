@@ -1,0 +1,10 @@
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\bin\Debug\MyHomeAutomation.exe.config
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\bin\Debug\MyHomeAutomation.exe
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\bin\Debug\MyHomeAutomation.pdb
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\obj\Debug\MyHomeAutomation.csprojResolveAssemblyReference.cache
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\obj\Debug\MyHomeAutomation.Form1.resources
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\obj\Debug\MyHomeAutomation.Properties.Resources.resources
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\obj\Debug\MyHomeAutomation.csproj.GenerateResource.Cache
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\obj\Debug\MyHomeAutomation.exe
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\obj\Debug\MyHomeAutomation.pdb
+F:\Projects\VS\test\HomeAutomation\MyHomeAutomation\MyHomeAutomation\bin\Debug\Bunifu_UI_v1.52.dll
